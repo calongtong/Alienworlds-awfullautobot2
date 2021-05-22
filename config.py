@@ -3,7 +3,6 @@
 from python_anticaptcha import AnticaptchaClient
 
 CAPTCHA_KEY = 'YOUR KEY'  # https://anti-captcha.com/
-# PROXY_KEY = ''  # https://best-proxies.ru/
 
 anticaptcha_client = AnticaptchaClient(CAPTCHA_KEY)
 
