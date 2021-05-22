@@ -1,5 +1,5 @@
 # Alienworlds-awfullautobot
- This bot automatically mines TLM and solves the captcha through the Anti-Captha service
+ This bot automatically mines TLM and solves the captcha through the Anti-Captha service By Python CMD
 
 The first working bot for the game Alien Worlds. You will never be banned. The bot always mines with a different delay, so the game thinks that you are a real person.
 
