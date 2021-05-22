@@ -23,7 +23,7 @@ Bot setup:
 9. Install Node JS 14.17 LTS (as of 05/13/2021)
 10. Go to config.py and in the CAPTCHA_KEY = 'YOUR KEY' field insert your captcha key https://anti-captcha.com/ (Works only on it) Do not touch the rest in the config, otherwise you will break everything.
 If cannot error "Рестарт через 10 секунд." it means test key out of balance.
-Test key - 5sd754982czx4as5d21r5t7sdf46er7g
+Test key - 8783b8055536f57a3b642cb58ab696d1
 This key can be used until the balance runs out (100 + $)
 
 11. The bot is ready, it remains to set up your accounts.
