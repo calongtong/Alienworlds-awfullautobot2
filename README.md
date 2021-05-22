@@ -52,7 +52,7 @@ IMPORTANT!!!! After each save the account, CLEAR history in the browser !!!!
 
 INCLUDE BOT
 
-We drop all * .json files into the cookies folder (if not, create them) in the bot. The numbering MUST start with 1.json and continue with 2,3,4,5 ...
+We drop all *.json files into the cookies folder (if not, create them) in the bot. The numbering MUST start with 1.json and continue with 2,3,4,5 ...
 Go to the console (CMD) write cd desktop / awbot
 Writing python main.py
 Let's start the bot
