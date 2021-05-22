@@ -142,11 +142,11 @@ class Game:
             if token['symbol'] == 'TLM':
                 if float(amount) > 0:
                     self.wax.check_tlm(self.game_account_name, config.MAIN_ACCOUNT, amount)
-                    time.sleep(7)
+                    time.sleep(5)
             elif token['symbol'] == 'WAX':
                 if float(amount) > 0:
                     self.wax.check_wax(self.game_account_name, config.MAIN_ACCOUNT, amount)
-                    time.sleep(7)
+                    time.sleep(5)
 
        
         logging.info(f'Проверка успеха майнинга')
