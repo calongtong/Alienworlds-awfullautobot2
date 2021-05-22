@@ -19,7 +19,7 @@ Bot setup:
 5. pip install -r requirements.txt
 6. Perhaps he will swear at the version pip, then write a command that will appear in the console
 7. pip install selenium-requests
-8. Install Mozilla Firefox If you already have it, check that the version is 90+
+8. Install Mozilla Firefox If you already have it, check that the version is 88+
 9. Install Node JS 14.17 LTS (as of 05/13/2021)
 10. Go to config.py and in the CAPTCHA_KEY = 'YOUR KEY' field insert your captcha key https://anti-captcha.com/ (Works only on it) Do not touch the rest in the config, otherwise you will break everything.
 If cannot error "Рестарт через 10 секунд." it means test key out of balance.
